@@ -1,0 +1,8 @@
+﻿Filezila提取arborator文件：
+Accéder au serveur de l'Arborator par FileZilla : 
+	sftp://arborator@ilpga.fr:22
+	annotate!t
+
+运行python2：
+Lancer le script de Python 2 : 
+py -2 exportmostrecenttrees.py
