@@ -1,0 +1,729 @@
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+A la ligne '284' on trouve : 33	fe-	_	X	_	_	30	conj:dicto	_	41828|41959
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+A la ligne '284' on trouve : 33	fe-	_	X	_	_	30	conj:dicto	_	41828|41959
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ABJ_GWA_06_Ugo.lifestory_PRO.most.recent.trees.conll10
+
+A la ligne '445' on trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ABJ_GWA_08_Davids.lifestory_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_09_Journalism_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_10_Steven.lifestory_PRO.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_12_Accident_PRO.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_14_Mary.lifestory_PRO.most.recent.trees.conll10
+
+
+
+
+P_ABJ_INF_10_Women.battering_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_INF_12_Evictions_PRO.eaf.csv.most.recent.trees.conll10
+
+A la ligne '720' on trouve : 34	k	_	NOUN	_	_	25	comp:obj	_	130610|130920
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ABJ_NOU_02_Gimbas.Life.Story_PRO.most.recent.trees.conll10
+
+
+
+
+P_BEN_02_Andrew.lifestory_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_08_Egusi.and.Banga.Soup_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_09_Tailoring.Immunization_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_14_BronzeFM.News_PRO.most.recent.trees.conll10
+
+
+
+
+P_BEN_34_Tale_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_36_Clever.girl_PRO.most.recent.trees.conll10
+
+A la ligne '1720' on trouve : 19	jewelries	_	NOUN	_	_	17	conj:coord	_	253536|254190
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1843' on trouve : 10	jewelries	_	NOUN	_	_	2	comp:pred	_	269397|269742
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ENU_01_Salomis.Egusi.Soup.Recipe_PRO.most.recent.trees.conll10
+
+
+
+
+P_ENU_02_Christmas_at_New_Berries_PRO.eaf.csv.most.recent.trees.conll10
+
+A la ligne '31' on trouve : 7	sab	_	VERB	_	_	0	root	_	11430|11725
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ENU_09_Angry_Neighbours_PRO.eaf.csv.most.recent.trees.conll10
+
+A la ligne '1128' on trouve : 12		_	PUNCT	_	_	_	_	_	192386|192416
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ENU_22_Barman.interview_PRO.most.recent.trees.conll10
+
+
+
+
+P_ENU_33_A.Beg_PRO.most.recent.trees.conll10
+
+A la ligne '1980' on trouve : 17	mgbe	_	X	_	_	15	comp	_	166187|166437
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1982' on trouve : 19	gasi	_	X	_	_	18	flat	_	166510|166717
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1984' on trouve : 21	uwa	_	X	_	_	20	flat	_	166777|166910
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1989' on trouve : 26	eziokwu	_	X	_	_	25	flat	_	168218|168789
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ENU_34_Malaysia.Guy_PRO.most.recent.trees.conll10
+
+A la ligne '301' on trouve : 12	ga-	_	NOUN	_	_	3	comp:obj	_	76526|76668
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1630' on trouve : 3	inf	_	X	_	_	7	mod:periph	_	298640|298855
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ENU_37_DMoris.Restaurant_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_01_Fola.lifestory_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_02_Igwe.Festival_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_03_Womanisers_PRO.most.recent.trees.conll10
+
+A la ligne '1636' on trouve : 10	Yesterday	_	PROPN	_	_	8	comp	_	288943|289397
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_IBA_04_Alaska.Pepe_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_IBA_15_Electrician_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_20_Bose.Alade_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_21_Obodo.Barracks_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_23_Bitter.Leaf.Soup_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_31_Lens.Sermon_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_32_Tori.by.Samuel_PRO.most.recent.trees.conll10
+
+A la ligne '845' on trouve : 5	Ninety	_	PROPN	_	_	4	flat	_	158570|158870
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1592' on trouve : 3	[ar	_	PUNCT	_	_	5	punct	_	280476|280506
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1595' on trouve : 6	ar]	_	PUNCT	_	_	5	punct	_	281710|281740
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2058' on trouve : 2	Olorun	_	PROPN	_	_	0	root	_	347047|347357
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_IBA_33_News.Comments_PRO.most.recent.trees.conll10
+
+A la ligne '1055' on trouve : 3	millilon	_	NOUN	_	_	4	dep	_	264020|264439
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2196' on trouve : 40	nearby	_	ADJ	_	_	41	dep	_	489872|490277
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2943' on trouve : 19	oloun	_	X	_	_	12	parataxis:conj	_	145451|145789
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '3010' on trouve : 2	oloun	_	X	_	_	0	root	_	160300|160654
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '3028' on trouve : 2	oloun	_	X	_	_	0	root	_	165810|166100
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_IBA_34_News.Report.by.Samuel_PRO.most.recent.trees.conll10
+
+A la ligne '588' on trouve : 7	Matriculations	_	PROPN	_	_	4	conj:coord	_	156550|157330
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1075' on trouve : 6	PM	_	ADV	_	_	7	dep	_	277830|278070
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1084' on trouve : 15	Ninety-six	_	NUM	_	_	14	flat	_	279310|279775
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_IBA_40_Xst.Passion.Prologue_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_41_Xst.Passion.Finale_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_01_People.of.Plateau_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_12_How.to.Prepare.Gote.soup_PRO.most.recent.trees.conll10
+
+A la ligne '1553' on trouve : 35	spinnach	_	NOUN	_	_	33	conj:dicto	_	359010|359589
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_JOS_14_Chibozor.s.view.about.Nigeria_PRO.most.recent.trees.conll10
+
+A la ligne '472' on trouve : 25	Proverb	_	PROPN	_	_	22	conj:dicto	_	71720|72200
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_JOS_19_Bukuru_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_20_Beauty.of.Jos_PRO.most.recent.trees.conll10
+
+A la ligne '454' on trouve : 4	accomodation	_	NOUN	_	_	12	dislocated	_	82300|83000
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '579' on trouve : 9	accomodation	_	NOUN	_	_	10	subj	_	108071|108780
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_KAD_03_Why.men.watch.football_PRO.most.recent.trees.conll10
+
+
+
+
+P_KAD_09_Kabir.Gymnasium_PRO.most.recent.trees.conll10
+
+A la ligne '1483' on trouve : 5	Simbo	_	PROPN	_	_	6	vocative	_	273950|274350
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_KAD_10_Egusi.Soup_PRO.most.recent.trees.conll10
+
+
+
+
+P_KAD_12_Mechanic.at.work_PRO.most.recent.trees.conll10
+
+
+
+
+P_KAD_13_Entering.University_PRO.most.recent.trees.conll10
+
+A la ligne '223' on trouve : 4	whats	_	PART	_	_	0	root	_	49300|49470
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '408' on trouve : 34	fresher	_	NOUN	_	_	32	comp	_	77980|78570
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '583' on trouve : 3	knicker	_	NOUN	_	_	1	comp:pred	_	106950|107130
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_KAD_15_Money.Wahala_PRO.most.recent.trees.conll10
+
+A la ligne '209' on trouve : 27	came	_	VERB	_	_	0	root	_	53640|53870
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_KAD_17_Turkeys_PRO.most.recent.trees.conll10
+
+
+
+
+P_LAG_07_Johns.Biography_PRO.most.recent.trees.conll10
+
+A la ligne '68' on trouve : 19	regime	_	NOUN	_	_	23	dislocated	_	17431|17690
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1505' on trouve : 23	Odetola	_	PROPN	_	_	21	conj:coord	_	283131|283824
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_LAG_11_Adeniyi.s_lifestory_PRO.most.recent.trees.conll10
+
+A la ligne '169' on trouve : 11	ga-	_	XX	_	_	15	dep	_	42846|43033
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_LAG_12_Insurance_PRO.most.recent.trees.conll10
+
+A la ligne '114' on trouve : 5	simple	_	ADJ	_	_	3	comp:pred	_	21200|21858
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '855' on trouve : 15	millon	_	NOUN	_	NumType=Card	16	dep	_	152328|152691
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1458' on trouve : 16	occur	_	VERB	_	_	13	comp	_	249665|250009
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_LAG_21_I.like.Stout_PRO.most.recent.trees.conll10
+
+A la ligne '75' on trouve : 2	[Eng	_	PUNCT	_	_	4	punct	_	26467|28316
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '105' on trouve : 32	Eng]	_	PUNCT	_	_	4	punct	_	38312|38342
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '939' on trouve : 34	afiafherebo	_	NOUN	_	_	31	comp:obj	_	305294|306198
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_LAG_27_Shawarma_PRO.most.recent.trees.conll10
+
+
+
+
+P_LAG_31_Road.Safety_PRO.most.recent.trees.conll10
+
+A la ligne '681' on trouve : 10	wit-	_	X	_	_	0	root	_	128620|128723
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_LAG_37_Soap.Making_PRO.most.recent.trees.conll10
+
+A la ligne '50' on trouve : 19	liablity	_	NOUN	_	_	18	comp:pred	_	11188|11780
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '331' on trouve : 23	formalin	_	NOUN	_	_	18	conj:coord	_	61310|61931
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '942' on trouve : 8	sulphric	_	ADJ	_	_	9	dep	_	161620|162200
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '974' on trouve : 3	sulphiric	_	ADJ	_	_	4	dep	_	167402|167823
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ONI_07_Dis.year.na.my.year_PRO.most.recent.trees.conll10
+
+A la ligne '1229' on trouve : 17	tipper	_	NOUN	_	_	24	dislocated	_	228782|229181
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1233' on trouve : 21	tippers	_	NOUN	_	_	19	comp	_	230072|230585
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ONI_10_Sport.Commentary_PRO.most.recent.trees.conll10
+
+A la ligne '97' on trouve : 17	St	_	PROPN	_	_	16	flat	_	18430|18500
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '332' on trouve : 9	kepukepu	_	NOUN	_	_	8	comp	_	76670|77220
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ONI_26_News.Highlights_PRO.most.recent.trees.conll10
+
+A la ligne '311' on trouve : 33	knak	_	VERB	_	_	27	compound:svc	_	107070|107577
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_ONI_27_A.hotelier.Interview_PRO.most.recent.trees.conll10
+
+A la ligne '137' on trouve : 7	On	_	ADP	_	_	4	comp:obl	_	21274|21434
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '138' on trouve : 8	Child	_	NOUN	_	_	7	flat	_	21434|21734
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '139' on trouve : 9	Dialysis	_	NOUN	_	_	8	flat	_	21734|22194
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1808' on trouve : 17	Upper	_	PROPN	_	_	11	comp:pred	_	277800|278250
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_PRT_01_Banga.soup_PRO.most.recent.trees.conll10
+
+
+
+
+P_PRT_02_Food.and.Health_PRO.most.recent.trees.conll10
+
+
+
+
+P_PRT_05_Ghetto.life_PRO.most.recent.trees.conll10
+
+A la ligne '1096' on trouve : 1	shh	_	INTJ	_	_	2	discourse	_	138461|138668
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1795' on trouve : 17	shh	_	INTJ	_	_	18	discourse	_	229338|229519
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2579' on trouve : 6	untill	_	ADP	_	_	4	mod	_	323001|323560
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_PRT_07_Drummer_PRO.most.recent.trees.conll10
+
+A la ligne '1175' on trouve : 4	rehearse	_	VERB	_	_	3	comp:aux	_	207590|207937
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1388' on trouve : 3	rehearse	_	VERB	_	_	2	comp:aux	_	241290|241640
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_PRT_11_A.man.named.Jesus_PRO.most.recent.trees.conll10
+
+A la ligne '1261' on trouve : 9	Gen	_	XX	_	_	14	dep	_	226210|226472
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZA_01_TripleA.Sports_PRO.most.recent.trees.conll10
+
+A la ligne '396' on trouve : 5	p-	_	XX	_	_	9	dep	_	81655|81776
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZA_03_OBI.Lifestory_PRO.most.recent.trees.conll10
+
+A la ligne '1388' on trouve : 2	becauase	_	SCONJ	_	_	5	discourse	_	324339|324623
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZA_05_Big.Mo_PRO.most.recent.trees.conll10
+
+A la ligne '1077' on trouve : 8	restructring	_	NOUN	_	_	5	comp	_	185740|186570
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZA_08_Body.Matter_PRO.most.recent.trees.conll10
+
+
+
+
+P_WAZA_09_TV.News_PRO.most.recent.trees.conll10
+
+A la ligne '641' on trouve : 15	Avian	_	PROPN	_	_	14	comp	_	185149|185703
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '642' on trouve : 16	Flu	_	PROPN	_	_	15	flat	_	185703|186431
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '732' on trouve : 21	Avian	_	NOUN	_	_	19	comp	_	208535|209030
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '733' on trouve : 22	Flu	_	PUNCT	_	_	21	flat	_	209030|209435
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1524' on trouve : 34	Zimbambwe	_	PROPN	_	_	33	comp:obj	_	179581|180270
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZA_10_Bluetooth.s.Life.Story_PRO.most.recent.trees.conll10
+
+
+
+
+P_WAZK_07_As.e.dey.Hot.News.Read_PRO.most.recent.trees.conll10
+
+A la ligne '237' on trouve : 8	[Igb	_	PUNCT	_	_	9	punct	_	53777|53807
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '240' on trouve : 11	Igb]	_	PUNCT	_	_	9	punct	_	54508|54538
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '328' on trouve : 4	Representate	_	PROPN	_	_	3	comp	_	76800|77540
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '388' on trouve : 12	FRIS	_	VERB	_	_	10	conj:dicto	_	93975|95187
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '620' on trouve : 8	nai	_	XX	_	_	6	conj:dicto	_	157188|157480
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '684' on trouve : 6	Allordiah	_	PROPN	_	_	5	flat	_	171290|171770
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZK_08_Fuel.Price.Increase_PRO.most.recent.trees.conll10
+
+A la ligne '1212' on trouve : 8	arrangy	_	NOUN	_	_	7	comp:pred	_	219405|219807
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1270' on trouve : 18	arrangy	_	NOUN	_	_	15	comp	_	229167|229617
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1621' on trouve : 26	arrangy	_	NOUN	_	_	24	comp	_	299174|299653
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2277' on trouve : 7	arrangy	_	NOUN	_	_	4	conj:appos	_	430610|431335
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZL_02_Good.Morning.Nigeria_PRO.most.recent.trees.conll10
+
+
+
+
+P_WAZL_03_News.on.GMNS_PRO.most.recent.trees.conll10
+
+A la ligne '328' on trouve : 17	assessement	_	NOUN	_	_	11	comp:obj	_	83710|84450
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1019' on trouve : 35	Aviation	_	PROPN	_	_	34	flat	_	224032|224470
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZL_08_Edewor.Life.Story_PRO.most.recent.trees.conll10
+
+
+
+
+P_WAZL_15_MC.Abbey_PRO.most.recent.trees.conll10
+
+A la ligne '110' on trouve : 2	kalapotedly	_	ADV	_	_	31	mod:periph	_	21740|22578
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1506' on trouve : 7	On	_	PROPN	_	_	6	comp	_	203624|203799
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1508' on trouve : 9	Lighter	_	PROPN	_	_	7	flat	_	203830|204180
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '1509' on trouve : 10	Note	_	PROPN	_	_	9	flat	_	204180|204420
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '2606' on trouve : 5	Skecity	_	X	_	_	4	orphan	_	334060|334570
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '3092' on trouve : 7	simple	_	NOUN	_	_	8	dep	_	383855|384362
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZP_03_Education_PRO.most.recent.trees.conll10
+
+A la ligne '359' on trouve : 9	p-	_	X	_	_	7	comp:pred	_	54221|54382
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+A la ligne '596' on trouve : 12	universties	_	NOUN	_	_	2	comp:pred	_	91367|91907
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZP_04_Ponzi.Scheme_PRO.most.recent.trees.conll10
+
+A la ligne '1853' on trouve : 1	Haba	_	PROPN	_	_	0	root	_	280912|281190
+. Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+P_WAZP_07_Imonirhuas.Life.Story_PRO.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo.lifestory_PRO.most.recent.trees.conll10
+
+A la ligne '445' on trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=22
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+On trouve : 11	luc	_	PROPN	_	_	14	compound	_	75715|75915
+Le mot n'est pas dans le dictionnaire, ça peut être un mot nouveau, ou ça peut être une erreur orthographique. Si c'est une erreur orthographique, il faut corriger manuellement.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=22
+

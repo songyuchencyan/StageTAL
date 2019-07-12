@@ -1,0 +1,1691 @@
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_03_Cost.of.living.in.Abuja_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_06_Ugo.lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 1281 : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1380 : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+On trouve à la ligne 1524 : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_08_Davids.lifestory_PRO.eaf.csv.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 542 : 8	toh	_	PART	_	_	12	discourse	_	80126|80350
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1558 : 8	toh	_	PART	_	_	21	discourse	_	226054|226254
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1717 : 9	toh	_	PART	_	_	12	discourse	_	249082|249260
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2226 : 6	toh	_	PART	_	_	16	discourse	_	326155|326335
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2985 : 8	toh	_	PART	_	_	10	discourse	_	430597|430765
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_09_Journalism_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_GWA_10_Steven.lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1079 : 15	toh	_	PART	_	_	42	discourse	_	116700|116840
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1539 : 6	toh	_	PART	_	_	14	discourse	_	162820|162910
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+On trouve à la ligne 1799 : 3	in	im	PRON	_	Case=Nom|PronounType=Prs|Number=Sing|Pers=3	4	subj	_	189970|190060
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2235 : 9	toh	_	PART	_	_	17	discourse	_	228330|228520
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2299 : 7	toh	_	PART	_	_	10	discourse	_	233535|233720
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2845 : 1	toh	_	PART	_	_	4	discourse	_	288277|288397
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2877 : 5	toh	_	PART	_	_	6	discourse	_	290510|290610
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_12_Accident_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 425 : 15	back	_	ADP	_	_	14	comp	_	52334|52727
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 521 : 7	toh	_	PART	_	_	8	discourse	_	63340|63517
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 526 : 12	back	_	ADP	_	_	11	compound:prt	_	64040|64220
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 835 : 4	toh	_	PART	_	_	6	discourse	_	96137|96287
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1709 : 7	toh	_	PART	_	_	6	comp	_	207360|207490
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2043 : 8	toh	_	PART	_	_	10	discourse	_	246490|246630
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 2055 : 2	toh	_	PART	_	_	17	discourse	_	247620|247887
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_14_Mary.lifestory_PRO.most.recent.trees.conll10
+
+
+
+
+P_ABJ_INF_10_Women.battering_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_INF_12_Evictions_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ABJ_NOU_02_Gimbas.Life.Story_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 910 : 7	base	_	ADP	_	_	5	mod	_	199872|200135
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_BEN_02_Andrew.lifestory_PRO.eaf.csv.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['sick', 'ADJ', '_'], ['sick', 'VERB', '_']]
+On trouve à la ligne 697 : 13	sick	_	NOUN	_	_	14	compound	_	182920|183180
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['second', 'ADJ', 'NumType=Ord'], ['second', 'NOUN', '_']]
+On trouve à la ligne 1099 : 34	second	_	NUM	_	_	33	dep	_	265900|266370
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_BEN_08_Egusi.and.Banga.Soup_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_09_Tailoring.Immunization_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_BEN_14_BronzeFM.News_PRO.most.recent.trees.conll10
+
+
+
+
+P_BEN_34_Tale_PRO.eaf.csv.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 112 : 7	back	_	ADP	_	_	6	compound:prt	_	_
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_BEN_36_Clever.girl_PRO.most.recent.trees.conll10
+
+
+
+
+P_ENU_01_Salomis.Egusi.Soup.Recipe_PRO.most.recent.trees.conll10
+
+
+
+
+P_ENU_02_Christmas_at_New_Berries_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ENU_09_Angry_Neighbours_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_ENU_22_Barman.interview_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 227 : 5	I'm	_	X	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	0	root	_	46800|47040
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 230 : 8	I'm	_	X	_	Case=Nom|PronType=Prs|Number=Sing|Person=3	5	conj:dicto	_	47508|47789
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 232 : 10	I'm	_	X	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	8	conj:dicto	_	47819|48380
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 234 : 12	I'm	_	X	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	10	conj:dicto	_	48410|48741
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 236 : 14	I'm	_	X	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	12	conj:dicto	_	48771|49230
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 242 : 20	I'm	_	X	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	18	conj:dicto	_	49914|50170
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ENU_33_A.Beg_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 1008 : 11	am	_	VERB	_	_	9	dep	_	140498|140604
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['a', 'DET', 'Def=Ind|PronType=Art '], ['a', 'PRON', 'Case=Nom|Number=Sing|Person=1|PronType=Prs']]
+On trouve à la ligne 1981 : 18	a	_	X	_	Case=Nom	17	flat	_	166437|166510
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ENU_34_Malaysia.Guy_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['a', 'DET', 'Def=Ind|PronType=Art '], ['a', 'PRON', 'Case=Nom|Number=Sing|Person=1|PronType=Prs']]
+On trouve à la ligne 675 : 5	a	_	X	_	Case=Nom|PronType=Prs|Number=Sing|Person=1	4	comp:pred	_	138930|139100
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['go', 'AUX', 'Tense=Prosp'], ['go', 'VERB', '_']]
+On trouve à la ligne 1492 : 3	go	_	X	_	Tense=Prosp	2	orphan	_	279963|280053
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ENU_37_DMoris.Restaurant_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['swimming', 'VerbForm=Part|Tense=Pres', 'swim'], ['swimming', 'NOUN', '_']]
+On trouve à la ligne 869 : 10	swimming	swim	VERB	_	VerbForm=Part|Tense=Pres	11	compound	_	154073|154446
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['swimming', 'VerbForm=Part|Tense=Pres', 'swim'], ['swimming', 'NOUN', '_']]
+On trouve à la ligne 879 : 3	swimming	swim	VERB	_	VerbForm=Part|Tense=Pres	4	compound	_	155350|155670
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2424 : 1	one	_	PRON	_	NumType=Card	2	subj	_	13960|14100
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_01_Fola.lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['se-', 'PART', '_'], ['se-', 'VERB', '_']]
+On trouve à la ligne 1722 : 27	se-	_	X	_	_	35	dep	_	250590|250750
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_02_Igwe.Festival_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_03_Womanisers_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 2614 : 6	right	_	ADJ	_	_	7	dep	_	435099|435399
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_04_Alaska.Pepe_PRO.eaf.csv.most.recent.trees.conll10
+
+
+
+
+P_IBA_15_Electrician_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_20_Bose.Alade_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['express', 'ADJ', '_'], ['express', 'VERB', '_']]
+On trouve à la ligne 1960 : 5	express	_	NOUN	_	_	3	comp:obj	_	176210|176700
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_21_Obodo.Barracks_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['well', 'ADV', '_'], ['well', 'NOUN', '_']]
+On trouve à la ligne 552 : 5	well	_	ADJ	_	_	2	comp:aux	_	143132|143343
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['well', 'ADV', '_'], ['well', 'NOUN', '_']]
+On trouve à la ligne 600 : 8	well	_	ADJ	_	_	6	comp:pred	_	149630|149780
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['well', 'ADV', '_'], ['well', 'NOUN', '_']]
+On trouve à la ligne 609 : 17	well	_	ADJ	_	_	14	mod	_	153319|153500
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_23_Bitter.Leaf.Soup_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1114 : 31	back	_	ADP	_	_	29	comp	_	239050|239393
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_31_Lens.Sermon_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_32_Tori.by.Samuel_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['a', 'DET', 'Def=Ind|PronType=Art '], ['a', 'PRON', 'Case=Nom|Number=Sing|Person=1|PronType=Prs']]
+On trouve à la ligne 777 : 36	a	_	X	_	Case=Nom	29	parataxis:conj	_	146791|147120
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['re', 'VERB', '_'], ['re', 'X', '_']]
+On trouve à la ligne 2009 : 3	re	_	PRON	_	_	0	subj	_	287222|287469
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['ma', 'PRON', 'Number=Sing|Person=1|Poss=Yes|PronType=Prs'], ['ma', 'PART', '_']]
+On trouve à la ligne 2059 : 3	ma	_	X	_	_	2	flat:foreign	_	347357|347517
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_33_News.Comments_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 300 : 8	back	_	ADP	_	_	4	compound:prt	_	62318|62577
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['a', 'DET', 'Def=Ind|PronType=Art '], ['a', 'PRON', 'Case=Nom|Number=Sing|Person=1|PronType=Prs']]
+On trouve à la ligne 1398 : 27	a	_	X	_	Case=Nom|PronType=Prs|Number=Sing|Person=1	3	parataxis:parenth	_	327035|327185
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['e', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs'], ['e', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 1914 : 7	e	_	X	_	_	2	parataxis:parenth	_	424130|424253
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['ma', 'PRON', 'Number=Sing|Person=1|Poss=Yes|PronType=Prs'], ['ma', 'PART', '_']]
+On trouve à la ligne 2352 : 43	ma	_	X	_	_	42	flat:foreign	_	515676|515876
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['re', 'VERB', '_'], ['re', 'X', '_']]
+On trouve à la ligne 2608 : 3	re	_	PART	_	_	2	mod:emph	_	564519|565004
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2856 : 4	back	_	ADP	_	_	2	comp	_	20806|21104
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['e', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs'], ['e', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 3012 : 4	e	_	X	_	_	3	flat:foreign	_	160991|161134
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['ma', 'PRON', 'Number=Sing|Person=1|Poss=Yes|PronType=Prs'], ['ma', 'PART', '_']]
+On trouve à la ligne 3063 : 3	ma	_	X	_	_	2	flat:foreign	_	196870|197050
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['e', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs'], ['e', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 3289 : 2	e	_	X	_	_	0	root	_	408043|408189
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_34_News.Report.by.Samuel_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 102 : 11	top	_	ADP	_	_	10	fixed	_	21930|22125
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 460 : 24	top	_	ADP	_	_	23	fixed	_	122803|123077
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['dem', 'DET', 'Number=Plur'], ['dem', 'PRON', 'Case=Nom|Number=Plur|Person=3|PronType=Prs'], ['dem', 'PRON', 'Case=Acc|Number=Plur|Person=3|PronType=Prs']]
+On trouve à la ligne 924 : 51	dem	_	PART	_	Case=Nom|PronType=Prs|Number=Plur|Person=3	52	subj	_	238355|238525
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 1081 : 12	top	_	ADP	_	_	11	fixed	_	278690|278880
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 1108 : 14	top	_	ADP	_	_	13	fixed	_	283764|283974
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_IBA_40_Xst.Passion.Prologue_PRO.most.recent.trees.conll10
+
+
+
+
+P_IBA_41_Xst.Passion.Finale_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_01_People.of.Plateau_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_12_How.to.Prepare.Gote.soup_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['ma', 'PRON', 'Number=Sing|Person=1|Poss=Yes|PronType=Prs'], ['ma', 'PART', '_']]
+On trouve à la ligne 1358 : 11	ma	_	INTJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=1	10	discourse	_	316619|316864
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['dem', 'DET', 'Number=Plur'], ['dem', 'PRON', 'Case=Nom|Number=Plur|Person=3|PronType=Prs'], ['dem', 'PRON', 'Case=Acc|Number=Plur|Person=3|PronType=Prs']]
+On trouve à la ligne 1399 : 8	dem	_	ADJ	_	PronType=Prs|Number=Plur|Poss=Yes|Person=3	12	dep	_	324450|324920
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_JOS_14_Chibozor.s.view.about.Nigeria_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_19_Bukuru_PRO.most.recent.trees.conll10
+
+
+
+
+P_JOS_20_Beauty.of.Jos_PRO.most.recent.trees.conll10
+
+
+
+
+P_KAD_03_Why.men.watch.football_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 400 : 10	right	_	VERB	_	_	9	comp:pred	_	61630|61940
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_KAD_09_Kabir.Gymnasium_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['cause', 'VERB', '_'], ['cause', 'SCONJ', '_']]
+On trouve à la ligne 1168 : 1	cause	_	CCONJ	_	_	5	cc	_	221150|221440
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_KAD_10_Egusi.Soup_PRO.most.recent.trees.conll10
+
+
+
+
+P_KAD_12_Mechanic.at.work_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['slow', 'NOUN', '_'], ['slow', 'VERB', '_']]
+On trouve à la ligne 1042 : 20	slow	_	NUM	_	_	19	compound:prt	_	254549|254930
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_KAD_13_Entering.University_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 608 : 4	base	_	ADP	_	_	0	root	_	110460|110670
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 1804 : 34	base	_	ADP	_	_	31	conj:dicto	_	316370|316570
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_KAD_15_Money.Wahala_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['dem', 'DET', 'Number=Plur'], ['dem', 'PRON', 'Case=Nom|Number=Plur|Person=3|PronType=Prs'], ['dem', 'PRON', 'Case=Acc|Number=Plur|Person=3|PronType=Prs']]
+On trouve à la ligne 424 : 12	dem	_	ADJ	_	PronType=Prs|Number=Plur|Poss=Yes|Person=3	14	dep	_	89319|89530
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_KAD_17_Turkeys_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 369 : 13	one	_	PRON	_	NumType=Card	16	dislocated	_	61590|61907
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['ma', 'PRON', 'Number=Sing|Person=1|Poss=Yes|PronType=Prs'], ['ma', 'PART', '_']]
+On trouve à la ligne 929 : 8	ma	_	ADV	_	PronType=Prs|Number=Sing|Poss=Yes|Person=1	5	mod:emph	_	165091|165297
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_LAG_07_Johns.Biography_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1064 : 34	back	_	ADP	_	_	30	comp:pred	_	208420|209110
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_LAG_11_Adeniyi.s_lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1682 : 8	back	_	ADP	_	_	6	compound:prt	_	313132|313340
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_LAG_12_Insurance_PRO.most.recent.trees.conll10
+
+
+
+
+P_LAG_21_I.like.Stout_PRO.most.recent.trees.conll10
+
+
+
+
+P_LAG_27_Shawarma_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 140 : 3	oder	_	ADV	_	_	4	det	_	22832|22991
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_LAG_31_Road.Safety_PRO.most.recent.trees.conll10
+
+
+
+
+P_LAG_37_Soap.Making_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 263 : 4	one	_	PRON	_	NumType=Card	5	subj	_	47372|47512
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oda', 'ADJ', '_'], ['oda', 'NOUN', '_']]
+On trouve à la ligne 537 : 20	oda	_	ADV	_	_	22	dep	_	93154|93540
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ONI_07_Dis.year.na.my.year_PRO.most.recent.trees.conll10
+
+
+
+
+P_ONI_10_Sport.Commentary_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 370 : 23	forward	_	NOUN	_	_	20	comp:obj	_	82140|82400
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['English', 'NOUN', '_'], ['English', 'PROPN', '_']]
+On trouve à la ligne 983 : 2	English	_	ADJ	_	_	3	dep	_	85406|85780
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ONI_26_News.Highlights_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 97 : 3	one	_	PRON	_	NumType=Card	5	subj	_	37490|37676
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ONI_27_A.hotelier.Interview_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['ya', 'ADJ', '_'], ['ya', 'PART', '_']]
+On trouve à la ligne 1742 : 4	ya	_	X	_	_	3	flat:foreign	_	262440|262680
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['eh', 'INTJ', '_'], ['eh', 'VERB', '_']]
+On trouve à la ligne 1743 : 5	eh	_	X	_	_	4	flat:foreign	_	262680|262980
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_PRT_01_Banga.soup_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 10 : 6	base	_	ADP	_	_	2	comp	_	2650|2830
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2165 : 10	one	_	PRON	_	NumType=Card	8	comp:obj	_	330535|330655
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2915 : 21	one	_	PRON	_	NumType=Card	19	comp:pred	_	148640|148780
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_PRT_02_Food.and.Health_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 470 : 22	oder	_	DET	_	_	23	dep	_	80649|80909
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 532 : 3	one	_	PRON	_	NumType=Card	4	subj	_	91599|91659
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 544 : 3	one	_	PRON	_	NumType=Card	4	subj	_	93802|93862
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 629 : 12	one	_	PRON	_	NumType=Card	10	comp	_	107649|107815
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['you', 'PRON', 'Case=Nom|Number=Sing|Person=2|PronType=Prs'], ['you', 'PRON', 'Case=Acc|Number=Sing|Person=2|PronType=Prs']]
+On trouve à la ligne 1237 : 7	you	_	ADJ	_	Case=Nom|PronType=Prs|Number=Sing|Person=2	8	subj	_	211176|211236
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_PRT_05_Ghetto.life_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 529 : 9	one	_	PRON	_	NumType=Card	8	comp:obj	_	70106|70313
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['first', 'ADJ', 'NumType=Ord'], ['first', 'ADV', '_']]
+On trouve à la ligne 1086 : 28	first	_	NUM	_	NumType=Card	29	subj	_	136979|137281
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['make', 'AUX', 'Mood=Jus'], ['make', 'VERB', '_']]
+On trouve à la ligne 1201 : 3	make	_	NOUN	_	_	4	subj	_	152800|153053
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1626 : 20	back	_	ADP	_	_	19	compound:prt	_	205210|205570
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1866 : 10	back	_	ADP	_	_	9	compound:prt	_	237528|237850
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1872 : 16	back	_	ADP	_	_	15	compound:prt	_	239340|239580
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2272 : 6	one	_	PRON	_	NumType=Card	8	subj	_	284959|285109
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2650 : 9	back	_	ADP	_	_	8	compound:prt	_	332840|333230
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2751 : 9	back	_	ADP	_	_	8	comp:obl	_	344580|344730
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2772 : 6	back	_	ADP	_	_	5	compound:prt	_	348050|348398
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2784 : 6	back	_	ADP	_	_	5	compound:prt	_	349248|349498
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_PRT_07_Drummer_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 84 : 3	one	_	PRON	_	NumType=Card	20	dislocated	_	26622|26695
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 348 : 12	back	_	ADP	_	_	11	compound:prt	_	72780|73050
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1048 : 27	one	_	PRON	_	NumType=Card	25	comp:obj	_	180801|181010
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1406 : 5	back	_	ADP	_	_	4	compound:prt	_	244390|244580
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1453 : 5	back	_	ADP	_	_	4	compound:prt	_	249190|249297
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1495 : 13	back	_	ADP	_	_	12	compound:prt	_	254210|254439
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1913 : 12	back	_	ADP	_	_	11	compound:prt	_	319550|319780
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1943 : 5	back	_	ADP	_	_	4	compound:prt	_	322911|323130
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['dream', 'NOUN', '_'], ['dream', 'VERB', '_']]
+On trouve à la ligne 2072 : 16	dream	_	PRON	_	_	14	comp:obj	_	339495|339826
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2174 : 6	back	_	ADP	_	_	4	compound:prt	_	349880|350060
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 2471 : 15	right	_	ADJ	_	_	16	dep	_	397550|397822
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_PRT_11_A.man.named.Jesus_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['im', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs'], ['im', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs']]
+On trouve à la ligne 73 : 12	im	_	VERB	_	Case=Nom|PronType=Prs|Number=Sing|Person=3	10	conj:dicto	_	18251|18685
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 286 : 3	one	_	PRON	_	NumType=Card	11	dislocated	_	61450|61620
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 299 : 16	one	_	PRON	_	NumType=Card	23	dislocated	_	63708|63860
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 603 : 35	oder	_	DET	_	_	36	dep	_	116000|116360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 658 : 5	back	_	ADP	_	_	4	compound:prt	_	125290|125490
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 676 : 3	am	_	VERB	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	0	root	_	127883|128070
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 679 : 6	am	_	VERB	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	3	conj:dicto	_	128327|128604
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 691 : 2	am	_	VERB	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	0	root	_	129660|129800
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1258 : 6	back	_	ADP	_	_	5	compound:prt	_	225700|226010
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_01_TripleA.Sports_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['plus', 'ADJ', '_'], ['plus', 'CCONJ', '_']]
+On trouve à la ligne 201 : 20	plus	_	ADP	_	_	12	conj:coord	_	52160|52400
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['force', 'VERB', '_'], ['force', 'NOUN', '_']]
+On trouve à la ligne 678 : 28	force	_	PRON	_	_	27	comp	_	128730|129189
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 806 : 8	one	_	PRON	_	NumType=Card	5	comp	_	146457|146647
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['express', 'ADJ', '_'], ['express', 'VERB', '_']]
+On trouve à la ligne 855 : 16	express	_	NOUN	_	_	17	compound	_	26095|26425
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_03_OBI.Lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['Pidgin', 'ADJ', '_'], ['Pidgin', 'PROPN', '_']]
+On trouve à la ligne 508 : 5	Pidgin	_	NOUN	_	_	14	dislocated	_	127003|127313
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1534 : 3	one	_	PRON	_	NumType=Card	4	subj	_	350830|351040
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 1581 : 14	oder	_	DET	_	_	12	conj:dicto	_	358438|358797
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 1893 : 23	oder	_	DET	_	_	24	det	_	412358|412542
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1916 : 5	one	_	PRON	_	NumType=Card	6	subj	_	416360|416555
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 2035 : 22	forward	_	NOUN	_	_	21	compound:prt	_	440440|440822
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_05_Big.Mo_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['being', 'VERB', '_'], ['being', 'NOUN', '_']]
+On trouve à la ligne 698 : 14	being	_	PRON	_	_	10	comp:obj	_	125390|125510
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 751 : 7	forward	_	NOUN	_	_	6	compound:prt	_	131370|131690
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 867 : 4	one	_	PRON	_	NumType=Card	28	dislocated	_	153833|153893
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 1613 : 32	forward	_	NOUN	_	_	31	compound:prt	_	273450|273819
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 1992 : 27	forward	_	NOUN	_	_	26	compound:prt	_	336145|336510
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2104 : 33	back	_	ADP	_	_	34	dep	_	352633|352840
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2222 : 4	one	_	PRON	_	NumType=Card	2	comp:pred	_	368404|368490
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['forward', 'ADV', '_'], ['forward', 'VERB', '_']]
+On trouve à la ligne 2256 : 8	forward	_	ADP	_	_	7	compound:prt	_	372151|372371
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_08_Body.Matter_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 6 : 2	one	_	PRON	_	NumType=Card	3	subj	_	1775|1930
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 270 : 9	right	_	ADJ	_	_	10	dep	_	53548|53803
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['both', 'CCONJ', '_'], ['both', 'DET', '_']]
+On trouve à la ligne 283 : 6	both	_	PART	_	_	7	cc	_	54901|55155
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 595 : 11	one	_	PRON	_	NumType=Card	9	comp:obj	_	111750|111977
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 818 : 16	one	_	PRON	_	NumType=Card	17	subj	_	147875|148005
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['run', 'NOUN', '_'], ['run', 'VERB', '_']]
+On trouve à la ligne 1028 : 4	run	_	AUX	_	_	0	root	_	186380|186620
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1045 : 10	one	_	PRON	_	NumType=Card	8	comp:obj	_	189554|189750
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_09_TV.News_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['force', 'VERB', '_'], ['force', 'NOUN', '_']]
+On trouve à la ligne 325 : 9	force	_	PRON	_	_	5	comp	_	88710|89048
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['area', 'X', '_'], ['area', 'NOUN', '_']]
+On trouve à la ligne 667 : 11	area	_	PROPN	_	_	10	flat	_	193127|193650
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 673 : 17	one	_	PRON	_	NumType=Card	18	subj	_	194823|195180
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 740 : 29	one	_	PRON	_	NumType=Card	32	subj	_	210900|211330
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 779 : 68	one	_	PRON	_	NumType=Card	66	comp	_	221939|222080
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 889 : 19	one	_	PRON	_	NumType=Card	21	dislocated	_	245510|245550
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1000 : 52	one	_	PRON	_	NumType=Card	53	subj	_	269987|270284
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1005 : 57	one	_	PRON	_	NumType=Card	55	comp	_	271320|271570
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1075 : 9	one	_	PRON	_	NumType=Card	11	dislocated	_	284830|284960
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1084 : 18	one	_	PRON	_	NumType=Card	15	comp:pred	_	285970|286407
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1194 : 4	one	_	PRON	_	NumType=Card	6	dislocated	_	313690|313920
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1295 : 5	one	_	PRON	_	NumType=Card	2	comp	_	338010|338120
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1510 : 20	one	_	PRON	_	NumType=Card	18	comp:obj	_	176060|176380
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1521 : 31	one	_	PRON	_	NumType=Card	33	dislocated	_	178720|178969
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZA_10_Bluetooth.s.Life.Story_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 556 : 5	oder	_	DET	_	_	6	det	_	78845|79022
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 598 : 4	one	_	PRON	_	NumType=Card	8	dislocated	_	85644|85868
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1439 : 10	one	_	PRON	_	NumType=Card	18	subj	_	216878|217030
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1451 : 22	one	_	PRON	_	NumType=Card	19	comp	_	218930|219041
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['Pidgin', 'ADJ', '_'], ['Pidgin', 'PROPN', '_']]
+On trouve à la ligne 1480 : 4	Pidgin	_	NOUN	_	_	2	comp	_	223880|224110
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 1566 : 4	oder	_	DET	_	_	5	det	_	236420|236642
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['Igbo', 'ADJ', '_'], ['Igbo', 'PROPN', '_']]
+On trouve à la ligne 1579 : 17	Igbo	_	NOUN	_	_	15	comp:obj	_	239490|239830
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZK_07_As.e.dey.Hot.News.Read_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['deir', 'ADJ', 'Number=Plur|Person=3|Poss=Yes|PronType=Prs'], ['deir', 'NOUN', '_']]
+On trouve à la ligne 100 : 30	deir	_	AUX	_	PronType=Prs|Number=Plur|Poss=Yes|Person=3	31	dep	_	19030|19231
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 341 : 17	alias	_	ADV	_	_	18	mod	_	80870|81448
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['force', 'VERB', '_'], ['force', 'NOUN', '_']]
+On trouve à la ligne 367 : 43	force	_	PRON	_	_	42	comp	_	88649|89030
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 384 : 8	alias	_	ADV	_	_	10	mod	_	92743|93228
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 403 : 27	alias	_	ADV	_	_	28	mod	_	98586|99170
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 438 : 15	alias	_	ADV	_	_	17	mod	_	108260|108807
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 482 : 9	alias	_	ADV	_	_	10	mod	_	122554|123040
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['im', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs'], ['im', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs']]
+On trouve à la ligne 574 : 7	im	_	ADV	_	_	6	comp:pred	_	147629|147850
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 584 : 17	top	_	VERB	_	_	16	comp	_	150380|150550
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 640 : 28	alias	_	ADV	_	_	29	mod	_	161325|161686
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 648 : 36	top	_	VERB	_	_	35	comp	_	163590|163780
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZK_08_Fuel.Price.Increase_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 189 : 3	one	_	PRON	_	NumType=Card	9	dislocated	_	33060|33100
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 192 : 6	one	_	PRON	_	NumType=Card	3	conj:dicto	_	33250|33280
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 275 : 3	one	_	PRON	_	NumType=Card	4	subj	_	50420|50500
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 309 : 2	one	_	PRON	_	NumType=Card	3	subj	_	56670|56770
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 341 : 2	one	_	PRON	_	NumType=Card	3	subj	_	60716|60810
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 415 : 8	base	_	ADP	_	_	3	mod	_	71500|71670
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['bag', 'PRON', '_'], ['bag', 'NOUN', '_']]
+On trouve à la ligne 540 : 35	bag	_	ADP	_	_	33	comp:obl	_	97112|97519
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['bag', 'PRON', '_'], ['bag', 'NOUN', '_']]
+On trouve à la ligne 614 : 29	bag	_	NUM	_	_	27	comp:obj	_	108015|108545
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 672 : 4	one	_	PRON	_	NumType=Card	5	dislocated	_	119465|119535
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 845 : 4	top	_	DET	_	_	3	fixed	_	145861|146021
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['dem', 'DET', 'Number=Plur'], ['dem', 'PRON', 'Case=Nom|Number=Plur|Person=3|PronType=Prs'], ['dem', 'PRON', 'Case=Acc|Number=Plur|Person=3|PronType=Prs']]
+On trouve à la ligne 990 : 16	dem	_	ADJ	_	Case=Nom|PronType=Prs|Number=Plur|Person=3	17	dep	_	171475|171755
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 1267 : 15	base	_	ADP	_	_	12	mod	_	228517|228917
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 1422 : 22	back	_	ADP	_	_	21	compound:prt	_	253854|253994
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 1424 : 24	base	_	ADP	_	_	21	mod	_	254024|254244
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['alias', 'ADP', '_'], ['alias', 'NOUN', '_']]
+On trouve à la ligne 1812 : 16	alias	_	DET	_	_	17	det	_	332182|332527
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['dem', 'DET', 'Number=Plur'], ['dem', 'PRON', 'Case=Nom|Number=Plur|Person=3|PronType=Prs'], ['dem', 'PRON', 'Case=Acc|Number=Plur|Person=3|PronType=Prs']]
+On trouve à la ligne 2230 : 18	dem	_	ADJ	_	Case=Nom|PronType=Prs|Number=Plur|Poss=Yes|Person=3	19	dep	_	420880|421067
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2354 : 11	back	_	ADP	_	_	10	compound:prt	_	446555|446745
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['rest', 'VERB', '_'], ['rest', 'NOUN', '_']]
+On trouve à la ligne 2387 : 44	rest	_	ADJ	_	_	45	dep	_	453460|453790
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2673 : 4	one	_	PRON	_	NumType=Card	5	dislocated	_	495834|495935
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2722 : 3	back	_	ADP	_	_	0	root	_	503979|504130
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 2880 : 3	base	_	ADP	_	_	10	mod:periph	_	527680|527990
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2962 : 4	one	_	PRON	_	NumType=Card	6	subj	_	110904|111000
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['bag', 'PRON', '_'], ['bag', 'NOUN', '_']]
+On trouve à la ligne 2967 : 9	bag	_	VERB	_	_	17	dislocated	_	111360|111560
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 2996 : 2	base	_	ADP	_	_	6	mod:periph	_	199799|200085
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 3033 : 8	back	_	ADP	_	_	7	compound:prt	_	266424|266534
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['spe-', 'VERB', '_'], ['spe-', 'ADJ', '_']]
+On trouve à la ligne 3043 : 18	spe-	_	XX	_	_	16	comp:aux	_	267907|268152
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZL_02_Good.Morning.Nigeria_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 261 : 4	one	_	PRON	_	NumType=Card	5	subj	_	54235|54415
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oh', 'INTJ', '_'], ['oh', 'X', '_']]
+On trouve à la ligne 611 : 2	oh	_	PART	_	_	4	discourse	_	126070|126400
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 682 : 4	one	_	PRON	_	NumType=Card	15	dislocated	_	136906|137070
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 744 : 4	one	_	PRON	_	NumType=Card	7	dislocated	_	148060|148190
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 790 : 11	one	_	PRON	_	NumType=Card	9	comp:obj	_	160545|160726
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 1135 : 2	I'm	_	PART	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	0	root	_	232757|232905
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [["I'm", 'VERB', '_'], ["I'm", 'AUX', '_']]
+On trouve à la ligne 1177 : 2	I'm	_	PART	_	Case=Acc|PronType=Prs|Number=Sing|Person=3	0	root	_	139220|139300
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['being', 'VERB', '_'], ['being', 'NOUN', '_']]
+On trouve à la ligne 1216 : 6	being	be	AUX	_	VerbForm=Part|Tense=Pres	5	comp:aux	_	217130|217420
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1295 : 3	one	_	PRON	_	NumType=Card	4	subj	_	41556|41676
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZL_03_News.on.GMNS_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 35 : 7	top	_	VERB	_	_	6	fixed	_	8582|8755
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['plus', 'ADJ', '_'], ['plus', 'CCONJ', '_']]
+On trouve à la ligne 235 : 33	plus	_	NOUN	_	_	44	cc	_	46542|46732
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 482 : 4	top	_	VERB	_	_	3	fixed	_	115500|115670
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 510 : 32	top	_	VERB	_	_	31	fixed	_	118970|119120
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 534 : 56	top	_	VERB	_	_	55	fixed	_	123605|123875
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['spe-', 'VERB', '_'], ['spe-', 'ADJ', '_']]
+On trouve à la ligne 678 : 28	spe-	_	XX	_	_	32	dep	_	158005|158173
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 816 : 4	top	_	VERB	_	_	3	fixed	_	184730|184890
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['plus', 'ADJ', '_'], ['plus', 'CCONJ', '_']]
+On trouve à la ligne 853 : 41	plus	_	VERB	_	_	45	cc	_	191710|192143
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 2180 : 4	top	_	VERB	_	_	3	fixed	_	426160|426330
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 2241 : 3	top	_	VERB	_	_	2	fixed	_	435726|435860
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['plus', 'ADJ', '_'], ['plus', 'CCONJ', '_']]
+On trouve à la ligne 2521 : 60	plus	_	VERB	_	_	62	cc	_	62973|63316
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 2675 : 38	top	_	VERB	_	_	37	fixed	_	464650|464840
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZL_08_Edewor.Life.Story_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 207 : 4	one	_	PRON	_	NumType=Card	6	subj	_	39214|39322
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['like', 'ADP', '_'], ['like', 'VERB', '_']]
+On trouve à la ligne 220 : 17	like	_	ADV	_	_	16	comp:pred	_	41077|41209
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 318 : 2	one	_	PRON	_	NumType=Card	0	root	_	61513|61703
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 370 : 38	back	_	ADP	_	_	37	compound:prt	_	69524|69744
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['Pidgin', 'ADJ', '_'], ['Pidgin', 'PROPN', '_']]
+On trouve à la ligne 759 : 24	Pidgin	_	NOUN	_	_	23	comp:obj	_	122309|122720
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1048 : 6	one	_	PRON	_	NumType=Card	4	comp:obj	_	177319|177529
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['Pidgin', 'ADJ', '_'], ['Pidgin', 'PROPN', '_']]
+On trouve à la ligne 1605 : 48	Pidgin	_	NOUN	_	_	46	comp:pred	_	268912|269162
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['Pidgin', 'ADJ', '_'], ['Pidgin', 'PROPN', '_']]
+On trouve à la ligne 2033 : 10	Pidgin	_	NOUN	_	_	8	comp:pred	_	328223|328762
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['correct', 'VERB', '_'], ['correct', 'ADJ', '_']]
+On trouve à la ligne 2475 : 5	correct	_	NOUN	_	_	2	parataxis:obj	_	389726|390140
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2533 : 16	back	_	ADP	_	_	15	compound:prt	_	395980|396140
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2554 : 13	back	_	ADP	_	_	12	compound:prt	_	397490|397640
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 2667 : 41	top	_	VERB	_	_	40	comp:aux	_	416148|416315
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZL_15_MC.Abbey_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 164 : 12	oder	_	PRON	_	_	10	conj:dicto	_	31212|31420
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 166 : 14	oder	_	PRON	_	_	15	dep	_	31450|31609
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['oder', 'ADJ', '_'], ['oder', 'NOUN', '_']]
+On trouve à la ligne 212 : 16	oder	_	DET	_	_	18	det	_	34100|34316
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['plus', 'ADJ', '_'], ['plus', 'CCONJ', '_']]
+On trouve à la ligne 1472 : 27	plus	_	ADP	_	_	25	conj:dicto	_	199300|199521
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['im', 'PRON', 'Case=Nom|Number=Sing|Person=3|PronType=Prs'], ['im', 'ADJ', 'Number=Sing|Person=3|Poss=Yes|PronType=Prs']]
+On trouve à la ligne 1519 : 20	im	_	ADP	_	_	22	dep	_	206692|206792
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['proverb', 'SCONJ', '_'], ['proverb', 'VERB', '_']]
+On trouve à la ligne 1569 : 8	proverb	_	NOUN	_	_	4	comp:obj	_	214160|214561
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['deir', 'ADJ', 'Number=Plur|Person=3|Poss=Yes|PronType=Prs'], ['deir', 'NOUN', '_']]
+On trouve à la ligne 2153 : 10	deir	_	PRON	_	PronType=Prs|Number=Plur|Poss=Yes|Person=3	18	dislocated	_	286570|286784
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2288 : 3	one	_	PRON	_	NumType=Card	0	root	_	302508|302808
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['a', 'DET', 'Def=Ind|PronType=Art '], ['a', 'PRON', 'Case=Nom|Number=Sing|Person=1|PronType=Prs']]
+On trouve à la ligne 2298 : 4	a	_	NOUN	_	Case=Nom|PronType=Prs|Number=Sing|Person=1	2	comp:obj	_	303118|303270
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['scopew', 'NOUN', '_'], ['scopew', 'VERB', '_']]
+On trouve à la ligne 2594 : 9	scopew	_	INTJ	_	_	8	orphan	_	332770|333170
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['scopew', 'NOUN', '_'], ['scopew', 'VERB', '_']]
+On trouve à la ligne 2629 : 5	scopew	_	X	_	_	4	comp:obj	_	336550|336940
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZP_03_Education_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['top', 'ADJ', '_'], ['top', 'NOUN', '_']]
+On trouve à la ligne 324 : 18	top	_	VERB	_	_	17	comp:pred	_	48292|48520
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['study', 'NOUN', '_'], ['study', 'VERB', '_']]
+On trouve à la ligne 924 : 30	study	_	ADV	_	_	28	dep	_	146048|146453
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 1407 : 12	one	_	PRON	_	NumType=Card	10	comp:pred	_	236790|236980
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZP_04_Ponzi.Scheme_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 2178 : 15	back	_	ADP	_	_	14	compound:prt	_	339191|339401
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['base', 'NOUN', '_'], ['base', 'VERB', '_']]
+On trouve à la ligne 2428 : 9	base	_	ADP	_	_	8	mod	_	386820|387000
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 3391 : 54	right	_	ADJ	_	_	55	dep	_	550890|551170
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['free', 'VERB', '_'], ['free', 'ADJ', '_']]
+On trouve à la ligne 3879 : 23	free	_	NOUN	_	_	22	comp	_	44690|44910
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_WAZP_07_Imonirhuas.Life.Story_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 20 : 3	am	_	VERB	_	_	0	root	_	4790|4969
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['back', 'ADV', '_'], ['back', 'NOUN', '_'], ['back', 'VERB', '_']]
+On trouve à la ligne 903 : 12	back	_	ADP	_	_	11	compound:prt	_	148880|149020
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['you', 'PRON', 'Case=Nom|Number=Sing|Person=2|PronType=Prs'], ['you', 'PRON', 'Case=Acc|Number=Sing|Person=2|PronType=Prs']]
+On trouve à la ligne 1737 : 21	you	your	ADJ	_	Case=Nom|PronType=Prs|Number=Sing|Person=2	22	dep	_	270049|270140
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['right', 'NOUN', '_'], ['right', 'ADV', '_']]
+On trouve à la ligne 2301 : 16	right	_	VERB	_	_	15	comp:pred	_	359260|359520
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['one', 'DET', 'Definite=Spec|Number=Sing|PronType=Art'], ['one', 'NOUN', '_'], ['one', 'NUM', 'NumType=Card'], ['one', 'NUM', '_']]
+On trouve à la ligne 2486 : 1	one	_	PRON	_	_	11	subj	_	290268|290383
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=59
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=67
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=74
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=59
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=67
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=74
+
+
+
+
+P_ABJ_GWA_06_Ugo.lifestory_PRO.most.recent.trees.conll10
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+On trouve à la ligne 1281 : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+On trouve à la ligne 1380 : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+On trouve à la ligne 1524 : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=59
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=67
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=74
+
+
+
+
+P_ABJ_GWA_06_Ugo-lifestory_PRO.conll
+
+Dans le dictionnaire il y a : [['am', 'AUX', 'Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'], ['am', 'PRON', 'Case=Acc|Number=Sing|Person=3|PronType=Prs']]
+Mais on trouve  : 38	am	im	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=3	39	dep	_	198773|198913
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=59
+
+Dans le dictionnaire il y a : [['toh', 'INTJ', '_'], ['toh', 'X', '_']]
+Mais on trouve  : 6	toh	_	PART	_	_	4	discourse	_	214125|214360
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=67
+
+Dans le dictionnaire il y a : [['in', 'ADP', '_'], ['in', 'X', '_']]
+Mais on trouve  : 31	in	_	VERB	_	_	28	conj:dicto	_	234130|234310
+ => Il faut vérifier manuellement pour savoir si cette catégorie est correcte.
+Veuillez cliquer le lien vers cette phrase : https://arborator.ilpga.fr/editor.cgi?project=NaijaSUD&textid=115&opensentence=74
+
