@@ -1,0 +1,16 @@
+# elan_id = ABJ_GWA_03_M_014 ABJ_GWA_03_M_015 ABJ_GWA_03_M_016 ABJ_GWA_03_M_017
+# sent_id = P_ABJ_GWA_03_Cost-of-living-in-Abuja_PRO_10
+# sent_translation = # And my parents,  they have been taking people. They don't take home at all.
+# text = # and my parents < # de bin carry people home //
+1	#	_	PUNCT	_	_	8	punct	_	18487|19124
+2	and	_	CCONJ	_	_	8	cc	_	19124|19374
+3	my	_	ADJ	_	PronType=Prs|Number=Sing|Poss=Yes|Person=1	4	dep	_	19374|19594
+4	parents	_	NOUN	_	Number=Plur	8	dislocated	_	19594|20042
+5	<	_	PUNCT	_	_	4	punct	_	20042|20072
+6	#	_	PUNCT	_	_	8	punct	_	20072|20173
+7	de	_	PRON	_	Case=Nom|PronType=Prs|Number=Plur|Person=3	8	subj	_	20173|20234
+8	bin	_	AUX	_	AUX  Tense=Past	0	root	_	20234|20354
+9	carry	_	VERB	_	_	8	comp:aux	_	20354|20574
+10	people	_	NOUN	_	_	9	comp:obj	_	20574|20704
+11	home	_	NOUN	_	_	9	comp:obj	_	20704|20814
+12	//	_	PUNCT	_	_	8	punct	_	20814|20844
