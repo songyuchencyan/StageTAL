@@ -1,0 +1,6 @@
+# sent_id = P_ABJ_GWA_06_Ugo-lifestory_PRO_14
+# text = if somebody & //
+1	if	_	SCONJ	_	_	3	mod:periph	_	44814|45047
+2	somebody	_	PRON	_	_	3	subj	_	45047|45797
+3	&	_	PUNCT	_	_	0	root	_	45797|45829
+4	//	_	PUNCT	_	_	3	punct	_	45797|45829
