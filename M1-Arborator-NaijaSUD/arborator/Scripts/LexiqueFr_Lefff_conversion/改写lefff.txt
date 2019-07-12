@@ -1,0 +1,45 @@
+﻿P indicatif présent	=>	VerbForm=Fin|Tense=Pres|Mood=Ind
+F indicatif futur	=>	VerbForm=Fin|Tense=Fut|Mood=Ind
+I indicatif imparfait	=>	VerbForm=Fin|Tense=Imp|Mood=Ind
+J indicatif passé-simple=>	VerbForm=Fin|Tense=Past|Mood=Ind
+C conditionnel présent	=>	VerbForm=Fin|Tense=Pres|Mood=Cnd
+Y impératif présent	=>	VerbForm=Fin|Tense=Pres|Mood=Imp
+S subjonctif présent	=>	VerbForm=Fin|Tense=Pres|Mood=Sub
+T subjonctif imparfait	=>	VerbForm=Fin|Tense=Imp|Mood=Sub
+K participe passée	=>	VerbForm=Part|Tense=Past|Voice=Pass
+G participe présent	=>	VerbForm=Part|Tense=Pres
+W infnitif présent	=>	VerbForm=Inf
+
+1 1repersonne	=>	Person=1
+2 2epersonne	=>	Person=2
+3 3epersonne	=>	Person=3
+m genre masculin=>	Gender=Masc
+f genre féminin	=>	Gender=Fem
+s nombre singulier	=>	Number=Sing
+p nombre pluriel	=>	Number=Plur
+
+
+
+
+Problèmes : 
+	- MWEPOS=ADV|MWE=ne_pas
+	- NUM	NumType=Card; NumType=Ord
+	- pronom impersonnel : il, ça
+	- 中间带"-"的词
+
+
+MOT	CAT	TRAIT	LEMME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
